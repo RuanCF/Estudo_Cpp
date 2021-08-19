@@ -11,4 +11,4 @@ int main(){
     system("pause"); 
     //faz com que a aplicacao entre em pausa antes de finalizar
     //se nao mandar a aplicacao para, não seria possível ver o que foi impresso no Console.
-} 
+}
